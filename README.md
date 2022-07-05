@@ -8,7 +8,7 @@ Double Book overlapping problem
 ## Time and Space Complexity
 ### Time Complexity:
     It was created with O($n^2$) time complexity since each time interval, after being sorted, is compared with the rest of the intervals
-    Ideally, an efficient approach would have taken a O(n logn) time, with start and end times sorted separately, with the help of lambda functions. However, after       scratching different thought processes, I resorted to the brute force solution
+    Ideally, an efficient approach would have taken a O(n logn) time, with start and end times sorted separately, with the help of lambda functions. However, after scratching different thought processes, I resorted to the brute force solution
     
 ## About test cases:
   The following edge cases are checked with python unittest module:
