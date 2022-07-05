@@ -19,3 +19,5 @@ Double Book overlapping problem
   - tests if no overlap is found, or only one interval as input
   - tests a small set of intervals
   - tests a large set of intervals
+  
+## P.S. It would be my pleasure to know and understand about the nlogn approach for the solution and would love to have a feedback about this challenge. Thank you for your time.
